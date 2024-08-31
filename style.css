@@ -1,0 +1,41 @@
+body {
+    color: rgb(246, 249, 247);
+    background:rgb(171, 117, 230);
+    margin: 0px;
+    font-family: "Mooli", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(91, 61, 243);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(241, 242, 243)
+}
+
+section {
+    background: rgb(244, 243, 245);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5% ;
+h1 {
+font-size: 40px;
+}
+
+p {
+font-size: 25px;
+
+
+}
+
+
+
+
+
+
+}
+
